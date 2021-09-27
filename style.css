@@ -1,0 +1,172 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700;900&display=swap');
+.body{
+  font-family: 'Montserrat', sans-serif;
+
+}
+
+*{
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+}
+
+.hero_content{
+  width: 50%;
+  float: left;
+}
+
+.hero{
+
+  background-color: orange;
+  height: 560px;
+  z-index: 10;
+  
+}
+
+.hero_content h1{
+
+  margin-bottom: 20px;
+  
+}
+
+
+
+.hero_content img{
+
+  width: 62.3%;
+  margin: -18.3px -23px -23px 250px;
+  z-index: 10;
+
+  
+  
+  
+}
+
+#text{
+
+  padding: 100px;
+  margin-top: 100px;
+}
+
+.hire_me_button a{
+
+  text-decoration: none;
+  color: white;
+  padding: 10px;
+  
+  
+}
+
+.hire_me_button{
+  background-color: black;
+  padding: 10px 20px 10px 20px;
+  margin: 20px -1px;
+  border-radius: 100px;
+  border: 3px solid white;
+
+}
+
+.second{
+  
+  display: flex;
+  box-shadow: 10px 10px 30px gray;
+  width: 70%;
+  align-items: center;
+  color: rgb(0, 0, 0);
+  margin-left: 270px;
+  margin-top: -200px;
+  background-color: white;
+  z-index: 10;
+
+  
+  
+}
+
+
+
+
+.icon_box{
+  width: 1000px;
+  align-items: center;
+  
+  padding: 10px;
+  
+}
+
+.icon_box img{
+
+  width: 20%;
+  align-self: center;
+  align-content: center;
+  align-items: center;
+  margin: 0px 0px 0px 120px;
+  border: rgb(255, 255, 255);
+ 
+  
+}
+
+.icon_box h3{
+  text-align: center;
+}
+
+#box1{
+  margin-left: 2px;
+}
+
+#box2{
+ 
+}
+
+#box3{
+  
+ 
+}
+
+#box4{
+  margin-left: -2px;
+  
+}
+
+#Hero_2{
+  float: left;
+  width: 50%;
+  justify-content: space-between;
+  display: flex;
+}
+
+.hero_content2 img{
+  width: 62.3%;
+  margin: 0px 0px 0px 500px;
+}
+
+#hero_2 img{
+
+  margin-top: 150px;
+  width: 70%;
+
+}
+#Hero{
+  background-color: rgba(255, 255, 255, 0);
+  padding: 20px;
+  width: 70%;
+  margin-top: -100px;
+  margin-left: 200px;
+}
+
+.clients{
+  display: flex;
+  justify-content: space-between;
+  width: 53%;
+  font-size: 20px;
+  margin-left: 465px;
+  margin-top: -200px;
+  
+}
+
+.clients div h1{
+  font-size: 70px;
+}
+
+
+
+
